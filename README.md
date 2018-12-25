@@ -115,3 +115,7 @@ plot "xxx" with lines
 即可看到效果：
 
 ![Plot](./document/Plot.jpg)
+
+# 😋关于
+* `author`: John Kindem
+* `NUAA ID`: 161520311
